@@ -7,20 +7,11 @@
 
 ## 🎬 Vidéo Explicatif
 
-<!-- ✅ AJOUTER LA VIDÉO ICI -->
-<!-- Option 1 — YouTube : remplace le lien ci-dessous -->
-<!--
-[![Voir la démo](https://img.youtube.com/vi/VOTRE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VOTRE_VIDEO_ID)
--->
 
-<!-- Option 2 — Vidéo locale hébergée sur GitHub -->
-<!--
-https://github.com/VOTRE_USERNAME/VOTRE_REPO/assets/VOTRE_ID/votre-video.mp4
--->
+https://github.com/user-attachments/assets/a42006a1-feb8-4e36-a0b5-3f3dae9a30e1
 
-> 📌 *La vidéo explicative sera ajoutée ici prochainement.*
 
----
+
 
 ## ✨ Fonctionnalités
 
