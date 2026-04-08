@@ -246,13 +246,6 @@ dependencies {
 
 ---
 
-## 📸 Aperçu
-
-| Onglet Température | Onglet Distance | Menu Quitter |
-|---|---|---|
-| *(screenshot)* | *(screenshot)* | *(screenshot)* |
-
-> 💡 Remplacez les cellules ci-dessus avec vos propres captures d'écran.
 
 ---
 
