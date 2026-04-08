@@ -1,5 +1,8 @@
 # 📱 Converter — Android App
 
+<img width="509" height="576" alt="image" src="https://github.com/user-attachments/assets/69c64b83-850b-40ae-be2f-9bb7a77cc4f8" />
+<img width="509" height="576" alt="image" src="https://github.com/user-attachments/assets/b6754e12-5d5c-4756-b490-df6f7a784f23" />
+
 
 > A simple Android application to convert **temperatures** (°C ↔ °F) and **distances** (KM ↔ Miles), built with two tabs, a Quit menu, and a back-press confirmation dialog.
 
